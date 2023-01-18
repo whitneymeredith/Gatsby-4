@@ -32,7 +32,7 @@ const IndexPage = () => {
       <SignedOut>
         <h2>Hi, there!</h2>
         <p>
-          Hit that <strong>Sign In</strong> button on the top right corner.
+          Gatsby 4 front-end site.
         </p>
       </SignedOut>
 
@@ -45,7 +45,7 @@ const IndexPage = () => {
 
       <p>
         <a href="https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/clerkinc/clerk-gatsby-starter">
-          Deploy this starter on Gatsby Cloud
+          Deploy this starter to Pantheon.
         </a>
       </p>
 
